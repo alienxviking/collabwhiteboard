@@ -2,8 +2,6 @@
 
 A lightweight, browser-based drawing application built with vanilla JavaScript, HTML5 Canvas, and CSS. This whiteboard provides a simple yet powerful interface for digital drawing and sketching.
 
-![Whiteboard Interface](/api/placeholder/800/400)
-
 ## Features
 
 ### Drawing Tools
