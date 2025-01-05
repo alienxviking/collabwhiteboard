@@ -62,17 +62,8 @@ A lightweight, browser-based drawing application built with vanilla JavaScript, 
 interactive-whiteboard/
 │
 ├── index.html          # Main HTML file with embedded CSS and JavaScript
-├── README.md          # This documentation file
-└── screenshots/       # (Optional) Interface screenshots
+└── README.md          # This documentation file
 ```
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## Development
 
@@ -96,26 +87,8 @@ case 'newTool':
     break;
 ```
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - Built with vanilla JavaScript
 - Uses HTML5 Canvas API
 - Inspired by classic paint programs
-
-## Version History
-
-### Version 1.0.0
-- Initial release with basic drawing tools
-
-### Version 1.1.0
-- Added undo/redo functionality
-- Improved tool organization
-- Enhanced state management
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact the maintainers directly.
