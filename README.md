@@ -9,8 +9,6 @@ A lightweight, browser-based drawing application built with vanilla JavaScript, 
 - ⬜ Rectangle Tool: Draw rectangular shapes
 - ⭕ Circle Tool: Draw circular shapes
 - 🧹 Eraser Tool: Erase portions of your drawing
-- ↩️ Undo: Revert last action (latest version)
-- ↪️ Redo: Restore previously undone action (latest version)
 
 ### Customization
 - 🎨 Color Picker: Choose any color for drawing
@@ -47,13 +45,6 @@ A lightweight, browser-based drawing application built with vanilla JavaScript, 
    - Size adjustable using the width slider
 
 ## Technical Details
-
-### Browser Compatibility
-- Chrome (recommended)
-- Firefox
-- Safari
-- Edge
-- Opera
 
 ### Canvas Specifications
 - Default canvas size: 800x600 pixels
